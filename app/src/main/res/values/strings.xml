@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">timetable</string>
+    <string name="monday">Monday</string>
+    <string name="tuesday">Tuesday</string>
+    <string name="wednesday">Wednesday</string>
+    <string name="thursday">Thursday</string>
+    <string name="friday">Friday</string>
+    <string name="saturday">saturday</string>
+    <string name="timetable">TIMETABLE</string>
+    <string name="choose_a_day">Choose_a_day</string>
+</resources>
